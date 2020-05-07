@@ -95,3 +95,4 @@ t3tsref       = https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us
 # This is required for embedding YouTube videos
 
 any_name_youtube = sphinxcontrib.youtube
+

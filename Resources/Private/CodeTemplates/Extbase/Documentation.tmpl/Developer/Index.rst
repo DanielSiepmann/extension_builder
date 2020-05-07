@@ -1,4 +1,4 @@
-﻿.. include:: ../Includes.txt
+.. include:: ../Includes.txt
 
 
 .. _developer:
@@ -13,7 +13,7 @@ This is your opportunity to pass on information to other developers who may be u
 
 Use this section to provide examples of code or detail any information that would be deemed relevant to a developer.
 
-You may wish to explain how a certain feature was implemented or detail any changes that might of been
+You may wish to explain how a certain feature was implemented or detail any changes that might of been 
 made to the extension.
 
 .. _developer-hooks:

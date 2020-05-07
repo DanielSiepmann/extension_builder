@@ -1,4 +1,4 @@
-﻿.. include:: ../Includes.txt
+.. include:: ../Includes.txt
 
 
 .. _introduction:
@@ -29,8 +29,8 @@ The aim of this chapter is to provide a general overview of your extension.
 * What problems does it solve?
 * Who is the target audience?
 
-This chapter should provide information that will help inform
-potential users and assist them in deciding if they should
+This chapter should provide information that will help inform 
+potential users and assist them in deciding if they should 
 install and use this extension.
 
 .. important::
